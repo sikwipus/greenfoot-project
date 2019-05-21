@@ -1,2 +1,1 @@
-# greenfoot-project
-project crazy ball
+# greenfoot
